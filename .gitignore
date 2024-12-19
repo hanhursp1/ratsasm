@@ -1,0 +1,8 @@
+*.bin
+*.rats
+ratsasm
+*.hex
+*.v
+*.hexc
+*.mif
+*.hexa
